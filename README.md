@@ -1,4 +1,4 @@
-# ![TOAST UI Editor](https://uicdn.toast.com/toastui/img/tui-editor-bi.png)
+# [![TOAST UI Editor](https://uicdn.toast.com/toastui/img/tui-editor-bi.png)](https://hack9test.blob.core.windows.net/otherimages/generate me an image that will represent a logo for my new startup project called recyclai. we are creating an app that anyone can use to take a photo and ask AI where some waste should be recicled and how. also .png)
 
 > GFM  Markdown and WYSIWYG Editor - Productive and Extensible
 
