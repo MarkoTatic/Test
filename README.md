@@ -1,6 +1,6 @@
 <div align="center">
 
-![retro_music](https://hack9test.blob.core.windows.net/otherimages/test2.png)
+![retro_music](https://hack9test.blob.core.windows.net/otherimages/test2.PNG)
 
 <h2> play music with command line </h2>
 
