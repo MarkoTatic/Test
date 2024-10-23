@@ -2,7 +2,7 @@
 
 ![retro_music](https://hack9test.blob.core.windows.net/otherimages/test2.PNG)
 
-<h2> play music with command line </h2>
+<h2> RecyclAi (ph. ˌriːˈsaɪkᵊlaɪ) </h2>
 
 [![GitHub release](https://img.shields.io/github/v/release/Malwarize/retro?color=blue&label=release)]()
 [![GitHub license](https://img.shields.io/github/license/Malwarize/retro?color=green)]()
