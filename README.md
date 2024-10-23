@@ -4,13 +4,6 @@
 
 <h2> RecyclAi (ph. ˌriːˈsaɪkᵊlaɪ) </h2>
 
-[![GitHub release](https://img.shields.io/github/v/release/Malwarize/retro?color=blue&label=release)]()
-[![GitHub license](https://img.shields.io/github/license/Malwarize/retro?color=green)]()
-[![GitHub issues](https://img.shields.io/github/issues/Malwarize/retro?color=red)]()
-[![GitHub stars](https://img.shields.io/github/stars/Malwarize/retro?color=yellow)]()
-[![GitHub forks](https://img.shields.io/github/forks/Malwarize/retro?color=orange)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/Malwarize/retro?color=blue)]()
-
 play music then continue your work on the terminal.
 
 <img src="https://github.com/Malwarize/retro/assets/130087473/aa91f82c-7faa-4804-b8e6-42b31ce7e6d9" alt="hi" style="width: 500px;" >
